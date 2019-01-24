@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/51228473/python-pandas-dataframe-sort-in-descending-order
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.shift.html
+https://stackoverflow.com/questions/10982089/how-to-shift-a-column-in-pandas-dataframe
+https://stackoverflow.com/questions/13295735/how-can-i-replace-all-the-nan-values-with-zeros-in-a-column-of-a-pandas-datafra
+https://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers
+http://www.datasciencemadesimple.com/get-maximum-value-column-python-pandas/
+https://stackoverflow.com/questions/19886584/calculate-mean-of-arrays-in-numpy
